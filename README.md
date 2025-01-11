@@ -54,4 +54,3 @@
 <img src="https://raw.githubusercontent.com/CaioFelps007/CaioFelps007/output/snake.svg" alt="Snake animation" />
 
 ###
-
